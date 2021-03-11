@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xiolin Ramirez\\Programacion3\\Probando\\Probando.csproj": {}
+    "C:\\Users\\Traba\\Downloads\\jofreylin\\Probando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xiolin Ramirez\\Programacion3\\Probando\\Probando.csproj": {
+    "C:\\Users\\Traba\\Downloads\\jofreylin\\Probando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xiolin Ramirez\\Programacion3\\Probando\\Probando.csproj",
+        "projectUniqueName": "C:\\Users\\Traba\\Downloads\\jofreylin\\Probando.csproj",
         "projectName": "Probando",
-        "projectPath": "C:\\Users\\Xiolin Ramirez\\Programacion3\\Probando\\Probando.csproj",
-        "packagesPath": "C:\\Users\\Xiolin Ramirez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xiolin Ramirez\\Programacion3\\Probando\\obj\\",
+        "projectPath": "C:\\Users\\Traba\\Downloads\\jofreylin\\Probando.csproj",
+        "packagesPath": "C:\\Users\\Traba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Traba\\Downloads\\jofreylin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Xiolin Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Traba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,7 +40,7 @@
       },
       "frameworks": {
         "net50": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
